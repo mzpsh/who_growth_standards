@@ -1,6 +1,6 @@
 # WIP
 ## Features
-- [ ] Head Circumference for Age
-- [ ] Arm Circumference for Age
+- [x] Head Circumference for Age
+- [x] Arm Circumference for Age
 
 ## Usage
